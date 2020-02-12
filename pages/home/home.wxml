@@ -1,0 +1,2 @@
+<!--pages/home/home.wxml-->
+<text style="color:red">Hello World</text>
